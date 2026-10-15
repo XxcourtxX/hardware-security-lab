@@ -1,0 +1,193 @@
+ATTACKMODE HID STORAGE
+
+BUTTON_DEF
+ATTACKMODE STORAGE
+END_BUTTON
+
+DEFINE SLW DELAY
+
+VAR $TIME = 100
+
+STRINGLN We're no strangers to love
+SLW $TIME
+
+$TIME = ($TIME + 100)
+STRINGLN You know the rules and so do I
+SLW $TIME
+
+$TIME = ($TIME + 100)
+STRINGLN A full commitment's what I'm thinking of
+SLW $TIME
+
+$TIME = ($TIME + 100)
+STRINGLN I just wanna tell you how I'm feeling
+SLW $TIME
+
+$TIME = ($TIME + 100)
+STRINGLN Gotta make you understand
+SLW $TIME
+
+$TIME = ($TIME + 100)
+STRINGLN Never gonna give you up
+SLW $TIME
+
+$TIME = ($TIME + 100)
+STRINGLN Never gonna let you down
+SLW $TIME
+$TIME = ($TIME + 100)
+STRINGLN Never gonna run around and desert you
+SLW $TIME
+$TIME = ($TIME + 100)
+STRINGLN Never gonna make you cry
+SLW $TIME
+$TIME = ($TIME + 100)
+STRINGLN Never gonna say goodbye
+SLW $TIME
+$TIME = ($TIME + 100)
+STRINGLN  gonna tell a lie and hurt you
+SLW $TIME
+$TIME = ($TIME + 100)
+STRINGLN We've known each other for so long
+SLW $TIME
+$TIME = ($TIME + 100)
+STRINGLN Your heart's been aching, but you're too shy to say it
+SLW $TIME
+$TIME = ($TIME + 100)
+STRINGLN Inside, we both know what's been going on
+SLW $TIME
+$TIME = ($TIME + 100)
+STRINGLN We know the game and we're gonna play it
+SLW $TIME
+$TIME = ($TIME + 100)
+STRINGLN And if you ask me how I'm feeling
+SLW $TIME
+$TIME = ($TIME + 100)
+STRINGLN Don't tell me you're too blind to see
+SLW $TIME
+$TIME = ($TIME + 100)
+STRINGLN Never gonna give you up
+SLW $TIME
+$TIME = ($TIME + 100)
+STRINGLN Never gonna let you down
+SLW $TIME
+$TIME = ($TIME + 100)
+STRINGLN Never gonna run around and desert you
+SLW $TIME
+$TIME = ($TIME + 100)
+STRINGLN Never gonna make you cry
+SLW $TIME
+$TIME = ($TIME + 100)
+STRINGLN Never gonna say goodbye
+SLW $TIME
+$TIME = ($TIME + 100)
+STRINGLN Never gonna tell a lie and hurt you
+SLW $TIME
+$TIME = ($TIME + 100)
+STRINGLN Never gonna give you up
+SLW $TIME
+$TIME = ($TIME + 100)
+STRINGLN Never gonna let you down
+SLW $TIME
+$TIME = ($TIME + 100)
+STRINGLN Never gonna run around and desert you
+SLW $TIME
+$TIME = ($TIME + 100)
+STRINGLN Never gonna make you cry
+SLW $TIME
+$TIME = ($TIME + 100)
+STRINGLN Never gonna say goodbye
+SLW $TIME
+$TIME = ($TIME + 100)
+STRINGLN Never gonna tell a lie and hurt you
+SLW $TIME
+$TIME = ($TIME + 100)
+STRINGLN (Ooh, give you up)
+SLW $TIME
+$TIME = ($TIME + 100)
+STRINGLN (Ooh, give you up)
+SLW $TIME
+$TIME = ($TIME + 100)
+STRINGLN Never gonna give, never gonna give
+SLW $TIME
+$TIME = ($TIME + 100)
+STRINGLN (Give you up)
+SLW $TIME
+$TIME = ($TIME + 100)
+STRINGLN Never gonna give, never gonna give
+SLW $TIME
+$TIME = ($TIME + 100)
+STRINGLN (Give you up)
+SLW $TIME
+$TIME = ($TIME + 100)
+STRINGLN We've known each other for so long
+SLW $TIME
+$TIME = ($TIME + 100)
+STRINGLN Your heart's been aching, but you're too shy to say it
+SLW $TIME
+$TIME = ($TIME + 100)
+STRINGLN Inside, we both know what's been going on
+SLW $TIME
+$TIME = ($TIME + 100)
+STRINGLN We know the game and we're gonna play it
+SLW $TIME
+$TIME = ($TIME + 100)
+STRINGLN I just wanna tell you how I'm feeling
+SLW $TIME
+$TIME = ($TIME + 100)
+STRINGLN Gotta make you understand
+SLW $TIME
+$TIME = ($TIME + 100)
+STRINGLN Never gonna give you up
+SLW $TIME
+$TIME = ($TIME + 100)
+STRINGLN Never gonna let you down
+SLW $TIME
+$TIME = ($TIME + 100)
+STRINGLN Never gonna run around and desert you
+SLW $TIME
+$TIME = ($TIME + 100)
+STRINGLN Never gonna make you cry
+SLW $TIME
+$TIME = ($TIME + 100)
+STRINGLN Never gonna say goodbye
+SLW $TIME
+$TIME = ($TIME + 100)
+STRINGLN Never gonna tell a lie and hurt you
+SLW $TIME
+$TIME = ($TIME + 100)
+STRINGLN Never gonna give you up
+SLW $TIME
+$TIME = ($TIME + 100)
+STRINGLN Never gonna let you down
+SLW $TIME
+$TIME = ($TIME + 100)
+STRINGLN Never gonna run around and desert you
+SLW $TIME
+$TIME = ($TIME + 100)
+STRINGLN Never gonna make you cry
+SLW $TIME
+$TIME = ($TIME + 100)
+STRINGLN Never gonna say goodbye
+SLW $TIME
+$TIME = ($TIME + 100)
+STRINGLN Never gonna tell a lie and hurt you
+SLW $TIME
+$TIME = ($TIME + 100)
+STRINGLN Never gonna give you up
+SLW $TIME
+$TIME = ($TIME + 100)
+STRINGLN Never gonna let you down
+SLW $TIME
+$TIME = ($TIME + 100)
+STRINGLN Never gonna run around and desert you
+SLW $TIME
+$TIME = ($TIME + 100)
+STRINGLN Never gonna make you cry
+SLW $TIME
+$TIME = ($TIME + 100)
+STRINGLN Never gonna say goodbye
+SLW $TIME
+$TIME = ($TIME + 100)
+STRINGLN Never gonna tell a lie and hurt you
+SLW $TIME
+
