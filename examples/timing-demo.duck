@@ -1,0 +1,25 @@
+REM Cristian Luna - DuckyScript 3 timing learning example
+REM Open and focus a blank text editor manually before running.
+REM Types original demo text only. Reconstructed example; hardware test pending.
+ATTACKMODE HID
+DELAY 3000
+
+VAR $BASE_DELAY = 300
+VAR $WAIT_TIME = $BASE_DELAY
+VAR $STEP_DELAY = $BASE_DELAY
+VAR $USE_DELAYS = TRUE
+
+IF ($USE_DELAYS == FALSE) THEN
+    $WAIT_TIME = 0
+    $STEP_DELAY = 0
+END_IF
+
+STRINGLN Lab line one: learning scripted keyboard input.
+DELAY $WAIT_TIME
+$WAIT_TIME = ($WAIT_TIME + $STEP_DELAY)
+
+STRINGLN Lab line two: checking variable updates and timing.
+DELAY $WAIT_TIME
+$WAIT_TIME = ($WAIT_TIME + $STEP_DELAY)
+
+STRINGLN Lab line three: demonstration complete.
