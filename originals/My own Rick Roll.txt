@@ -1,0 +1,205 @@
+ATTACKMODE HID
+
+BUTTON_DEF
+ATTACKMODE STORAGE
+END_BUTTON
+
+
+VAR $DELAY_TIME = 100
+VAR $TIME = $DELAY_TIME
+VAR $STEP_TIME = $DELAY_TIME
+VAR $DELAY_LYRICS = FALSE
+
+IF ($DELAY_LYRICS) THEN
+    $TIME = $DELAY_TIME
+    $STEP_TIME = $DELAY_TIME
+ELSE
+    $TIME = 0
+    $STEP_TIME = 0
+END_IF
+
+
+DELAY $TIME
+STRINGLN We're no strangers to love
+DELAY $TIME
+
+$TIME = ($TIME + $STEP_TIME)
+STRINGLN You know the rules and so do I
+DELAY $TIME
+
+$TIME = ($TIME + $STEP_TIME)
+STRINGLN A full commitment's what I'm thinking of
+DELAY $TIME
+
+$TIME = ($TIME + $STEP_TIME)
+STRINGLN I just wanna tell you how I'm feeling
+DELAY $TIME
+
+$TIME = ($TIME + $STEP_TIME)
+STRINGLN Gotta make you understand
+DELAY $TIME
+
+$TIME = ($TIME + $STEP_TIME)
+STRINGLN Never gonna give you up
+DELAY $TIME
+
+$TIME = ($TIME + $STEP_TIME)
+STRINGLN Never gonna let you down
+DELAY $TIME
+$TIME = ($TIME + $STEP_TIME)
+STRINGLN Never gonna run around and desert you
+DELAY $TIME
+$TIME = ($TIME + $STEP_TIME)
+STRINGLN Never gonna make you cry
+DELAY $TIME
+$TIME = ($TIME + $STEP_TIME)
+STRINGLN Never gonna say goodbye
+DELAY $TIME
+$TIME = ($TIME + $STEP_TIME)
+STRINGLN  gonna tell a lie and hurt you
+DELAY $TIME
+$TIME = ($TIME + $STEP_TIME)
+STRINGLN We've known each other for so long
+DELAY $TIME
+$TIME = ($TIME + $STEP_TIME)
+STRINGLN Your heart's been aching, but you're too shy to say it
+DELAY $TIME
+$TIME = ($TIME + $STEP_TIME)
+STRINGLN Inside, we both know what's been going on
+DELAY $TIME
+$TIME = ($TIME + $STEP_TIME)
+STRINGLN We know the game and we're gonna play it
+DELAY $TIME
+$TIME = ($TIME + $STEP_TIME)
+STRINGLN And if you ask me how I'm feeling
+DELAY $TIME
+$TIME = ($TIME + $STEP_TIME)
+STRINGLN Don't tell me you're too blind to see
+DELAY $TIME
+$TIME = ($TIME + $STEP_TIME)
+STRINGLN Never gonna give you up
+DELAY $TIME
+$TIME = ($TIME + $STEP_TIME)
+STRINGLN Never gonna let you down
+DELAY $TIME
+$TIME = ($TIME + $STEP_TIME)
+STRINGLN Never gonna run around and desert you
+DELAY $TIME
+$TIME = ($TIME + $STEP_TIME)
+STRINGLN Never gonna make you cry
+DELAY $TIME
+$TIME = ($TIME + $STEP_TIME)
+STRINGLN Never gonna say goodbye
+DELAY $TIME
+$TIME = ($TIME + $STEP_TIME)
+STRINGLN Never gonna tell a lie and hurt you
+DELAY $TIME
+$TIME = ($TIME + $STEP_TIME)
+STRINGLN Never gonna give you up
+DELAY $TIME
+$TIME = ($TIME + $STEP_TIME)
+STRINGLN Never gonna let you down
+DELAY $TIME
+$TIME = ($TIME + $STEP_TIME)
+STRINGLN Never gonna run around and desert you
+DELAY $TIME
+$TIME = ($TIME + $STEP_TIME)
+STRINGLN Never gonna make you cry
+DELAY $TIME
+$TIME = ($TIME + $STEP_TIME)
+STRINGLN Never gonna say goodbye
+DELAY $TIME
+$TIME = ($TIME + $STEP_TIME)
+STRINGLN Never gonna tell a lie and hurt you
+DELAY $TIME
+$TIME = ($TIME + $STEP_TIME)
+STRINGLN (Ooh, give you up)
+DELAY $TIME
+$TIME = ($TIME + $STEP_TIME)
+STRINGLN (Ooh, give you up)
+DELAY $TIME
+$TIME = ($TIME + $STEP_TIME)
+STRINGLN Never gonna give, never gonna give
+DELAY $TIME
+$TIME = ($TIME + $STEP_TIME)
+STRINGLN (Give you up)
+DELAY $TIME
+$TIME = ($TIME + $STEP_TIME)
+STRINGLN Never gonna give, never gonna give
+DELAY $TIME
+$TIME = ($TIME + $STEP_TIME)
+STRINGLN (Give you up)
+DELAY $TIME
+$TIME = ($TIME + $STEP_TIME)
+STRINGLN We've known each other for so long
+DELAY $TIME
+$TIME = ($TIME + $STEP_TIME)
+STRINGLN Your heart's been aching, but you're too shy to say it
+DELAY $TIME
+$TIME = ($TIME + $STEP_TIME)
+STRINGLN Inside, we both know what's been going on
+DELAY $TIME
+$TIME = ($TIME + $STEP_TIME)
+STRINGLN We know the game and we're gonna play it
+DELAY $TIME
+$TIME = ($TIME + $STEP_TIME)
+STRINGLN I just wanna tell you how I'm feeling
+DELAY $TIME
+$TIME = ($TIME + $STEP_TIME)
+STRINGLN Gotta make you understand
+DELAY $TIME
+$TIME = ($TIME + $STEP_TIME)
+STRINGLN Never gonna give you up
+DELAY $TIME
+$TIME = ($TIME + $STEP_TIME)
+STRINGLN Never gonna let you down
+DELAY $TIME
+$TIME = ($TIME + $STEP_TIME)
+STRINGLN Never gonna run around and desert you
+DELAY $TIME
+$TIME = ($TIME + $STEP_TIME)
+STRINGLN Never gonna make you cry
+DELAY $TIME
+$TIME = ($TIME + $STEP_TIME)
+STRINGLN Never gonna say goodbye
+DELAY $TIME
+$TIME = ($TIME + $STEP_TIME)
+STRINGLN Never gonna tell a lie and hurt you
+DELAY $TIME
+$TIME = ($TIME + $STEP_TIME)
+STRINGLN Never gonna give you up
+DELAY $TIME
+$TIME = ($TIME + $STEP_TIME)
+STRINGLN Never gonna let you down
+DELAY $TIME
+$TIME = ($TIME + $STEP_TIME)
+STRINGLN Never gonna run around and desert you
+DELAY $TIME
+$TIME = ($TIME + $STEP_TIME)
+STRINGLN Never gonna make you cry
+DELAY $TIME
+$TIME = ($TIME + $STEP_TIME)
+STRINGLN Never gonna say goodbye
+DELAY $TIME
+$TIME = ($TIME + $STEP_TIME)
+STRINGLN Never gonna tell a lie and hurt you
+DELAY $TIME
+$TIME = ($TIME + $STEP_TIME)
+STRINGLN Never gonna give you up
+DELAY $TIME
+$TIME = ($TIME + $STEP_TIME)
+STRINGLN Never gonna let you down
+DELAY $TIME
+$TIME = ($TIME + $STEP_TIME)
+STRINGLN Never gonna run around and desert you
+DELAY $TIME
+$TIME = ($TIME + $STEP_TIME)
+STRINGLN Never gonna make you cry
+DELAY $TIME
+$TIME = ($TIME + $STEP_TIME)
+STRINGLN Never gonna say goodbye
+DELAY $TIME
+$TIME = ($TIME + $STEP_TIME)
+STRINGLN Never gonna tell a lie and hurt you
+DELAY $TIME
+
